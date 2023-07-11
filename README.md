@@ -1,2 +1,2 @@
-# SkgitTu
+# SkgitTuadasd
 git tuto
